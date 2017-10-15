@@ -28,16 +28,3 @@ Lembrando que a mensagem deve estar obrigatóriamente entre "
 ***Mudando de branch***
 
     git checkout nome_da_branch
-    
-# Comandos Laravel
-***1º comando após clonar repositório***
-
-    composer install
-    
-ou
-
-    php composer.phar install
-
-***Atualizar banco de dados***
-    
-    php artisan migrate
