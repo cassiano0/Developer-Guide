@@ -28,3 +28,23 @@ Lembrando que a mensagem deve estar obrigatóriamente entre "
 ***Mudando de branch***
 
     git checkout nome_da_branch
+
+## iOS Development
+
+### Instalando CocoaPods
+
+'''
+sudo gem install cocoapods
+'''
+
+### Inicializando Pod folder
+
+'''
+pod init
+''''
+
+### Instalando dependencias
+
+'''
+pod install
+'''
